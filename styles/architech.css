@@ -170,6 +170,20 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
+/* footer section style */
+
+.footer{
+    width: 1440px;
+    /* height: 100px; */
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF4E7;
+    margin: 0 auto;
+}
+.footer p{
+    text-align: center;
+    padding: 30px 0;
+}
 
 /* responsive media quary */
 /* mobile devices */
